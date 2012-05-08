@@ -1,1 +1,2 @@
-exampleOutput/*.css
+*.css
+.DS_Store
